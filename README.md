@@ -54,7 +54,7 @@ Clone the repository unto your local machine cd to the folder.
 
 👤 SAMIR PAUL
 - Github: [@SamirPaul1](https://github.com/SamirPaul1) 
-- Twitter: [@SamirPaul01](https://twitter.com/SamirPaul01) 
+- Twitter: [@SamirPaulb](https://twitter.com/SamirPaulb) 
 - Linkedin: [samirpaul](https://www.linkedin.com/in/samirpaul/) 
 
 ## Show your support
